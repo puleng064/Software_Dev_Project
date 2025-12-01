@@ -5,13 +5,29 @@ Welcome to my GitHub space! I’m passionate about building systems that make a 
 
 🚀 Currently Learning & Improving
 
-Full-Stack Development (React + Flask + PHP)
+RLS Policies (Row Level Security)
 
-Authentication (JWT, Supabase Auth, MySQL)
+PostgreSQL
 
-Cloud Deployment (Vercel, CLI, GitHub Pages, Lovable)
+TypeScript
 
-Data visualization & dashboards
+AWS Cloud Services
+
+RPC (Remote Procedure Calls)
+
+CMS & CRM Systems
+
+🧠 Already Learned / Strong Skills
+
+Full-Stack Development: React, Flask, PHP
+
+Backend: Node.js 
+
+Authentication: JWT, Supabase Auth, MySQL
+
+Cloud Deployment: Vercel, CLI, GitHub Pages, Lovable
+
+Data Visualization & Dashboards
 
 🛠️ Tech Stack
 Languages
