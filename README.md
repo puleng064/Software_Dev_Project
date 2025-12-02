@@ -25,7 +25,7 @@ Backend: Node.js
 
 Authentication: JWT, Supabase Auth, MySQL
 
-Cloud Deployment: Vercel, CLI, GitHub Pages, Lovable
+Cloud Deployment: Vercel, CLI, GitHub Pages, Lovable, Replit, Base44, Blot AI
 
 Data Visualization & Dashboards
 
